@@ -1,7 +1,7 @@
 ## 👋 소개
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=MinSung_Kim&animation=fadeIn" />
 <div align="left">
-  <img src="https://avatars.githubusercontent.com/u/112923685?v=4" alt="MinSung_Kim" style="border-radius:50%" width=10% ">
+  <img src="https://avatars.githubusercontent.com/u/112923685?v=4" alt="README" style="border-radius:50%" width=10% ">
 </div>
 <br>
 안녕하세요! 저는 고등학교 시절 코딩과 프로그래밍을 시작한 열정적인 개발자입니다.🔥
