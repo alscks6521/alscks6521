@@ -1,4 +1,3 @@
-## 👋 소개
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=README&animation=fadeIn" />
 <div align="left">
   <img src="https://avatars.githubusercontent.com/u/112923685?v=4" alt="MinSungKim" style="border-radius:50%" width=10% ">
