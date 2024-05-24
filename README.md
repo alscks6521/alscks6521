@@ -13,6 +13,8 @@
   ### 📚 학업중 
 <div><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
 </div>
 
 
