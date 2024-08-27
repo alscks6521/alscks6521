@@ -28,4 +28,3 @@
 ## 🎯 목표 
 웹과 앱 개발을 경험을 거쳐 현재 앱 개발에 큰 관심을 가지고 있습니다, 목표는 앱을 직접 개발하고 서버까지 구축하여 배포하는 것입니다.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=130&section=footer" />  
